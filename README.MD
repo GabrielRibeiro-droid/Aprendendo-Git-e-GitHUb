@@ -12,6 +12,8 @@ Ao realizarmos esse comando subimos o primeiro commit do repositoria para a bran
 Feito isso o nosso repositorio local ja esta conectado ao repositorio online(remote no GitHub.)
 6. Para que entao enviarmos o repositorio local para o online utilizamos o codigo: $ git push -u origin main.
 
+OBS: existe a forma de alterar o nome da branch principal, que é  com o comando: $ git branch -M main. 
+
 Entao de forma simples e resumida o processo de crir um doc, salvar e enviar ao GitHub é: 
  - $ git add (nome do arquivo) 
  - $ git commit -m "Legenda do Commit"
